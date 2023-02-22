@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "cover":"episode-1.jpg",
+        "progress":32,
+        "title":"Capítulo uno: La desaparición de Will Byers.",
+        "duration":56,
+        "description":"Cuando vuelve en bici a su casa, Will ve algo horroroso. Cerca de allí, un siniestro secreto acecha en las profundidades de un laboratorio estatal."   
+    },
+    {
+        "id":2,
+        "cover":"episode-2.jpg",
+        "progress":0,
+        "title":"Capítulo uno: La desaparición de Will Byers.",
+        "duration":56,
+        "description":"Cuando vuelve en bici a su casa, Will ve algo horroroso. Cerca de allí, un siniestro secreto acecha en las profundidades de un laboratorio estatal."   
+    }
+    
+]
